@@ -1,7 +1,7 @@
 # 🧮 Advanced Python Calculator
 
 A modular, interactive calculator written in Python.  
-Supports multiple arithmetic operations, safe error handling, and a live calculation history — perfect as a first portfolio project for Python and data roles.
+Supports multiple arithmetic operations, safe error handling, and a live calculation history .
 
 ---
 
